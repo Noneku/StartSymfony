@@ -33,7 +33,7 @@ composer require nom-du-paquet
 # Pour mettre à jour les dépendances
 composer update
 
-Résumé Symfony 
+# Résumé Symfony 
 
 Composants Réutilisables : Symfony est construit autour de nombreux composants réutilisables qui peuvent être utilisés pour gérer des tâches courantes telles que la gestion des formulaires, la sécurité, la gestion des sessions, etc.
 
